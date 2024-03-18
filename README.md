@@ -1,9 +1,14 @@
-### Hi there 👋
+<h2>Greeting Guys😃</h2>
 
-## Hello Guys!
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=24&duration=4800&center=true&vCenter=true&multiline=true&random=false&width=550&height=65&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BD;My+Name+is+Daffa+Fikri+Alfiansyah" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4400&color=9F97F7&center=true&vCenter=true&multiline=true&random=false&width=550&height=85&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BD;My+Name+is+Daffa+Fikri+Alfiansyah" alt="Typing SVG" />
 </a>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,gmail,xd,instagram,tailwind,bootstrap,git,github,kotlin,androidstudio" />
+  </a>
+</p>
 <!--
 **DaffaFikriAL/DaffaFikriAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
