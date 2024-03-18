@@ -2,7 +2,7 @@
 
 <h2 align="center">Greeting Guys😃</h2>
 
-<a href="https://git.io/typing-svg">
+<a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4400&color=9F97F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=85&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BD;My+Name+is+Daffa+Fikri+Alfiansyah" alt="Typing SVG" />
 </a>
 
