@@ -6,19 +6,42 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4400&color=9F97F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=85&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BD;My+Name+is+Daffa+Fikri+Alfiansyah" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=gmail,xd,instagram,tailwind,bootstrap,git,github,kotlin,androidstudio&theme=dark" />
+
+<!--Language, Tools & Frameworks-->
+<h2 align="center">⚒️Language, Tools & Frameworks⚒️</h2>
+<div align="center">
+<!--HTML-->
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark"/>
   </a>
-</p>
+  
+  <!--CSS-->
+  <a href="https://www.w3schools.com/css/default.asp">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark"/>
+  </a>
+
+  <!--JAVASCRIPT-->
+  <a href="https://www.w3schools.com/js/default.asp">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark"/>
+  </a>
+
+  <!--PHP-->
+  <a href="https://www.w3schools.com/php/default.asp">
+    <img src="https://skillicons.dev/icons?i=php&theme=dark"/>
+  </a>
+
+  <!--MySQL-->
+  <a href="https://www.w3schools.com/sql/default.asp">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+  </a>
+</div>
 
 <div align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=DaffaFikriAL&theme=travelers-theme&border_radius=12&locale=id&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
-</a>
-  </div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DaffaFikriAL&theme=travelers-theme&border_radius=12&locale=id&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
+  </a>
+</div>
+
 <!--
 **DaffaFikriAL/DaffaFikriAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
