@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaffaFikriAL.DaffaFikriAL" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaffaFikriAL.DaffaFikriAL&left_color=blue&right_color=green&left_text=Halo%20Pengunjung&format=true" />
 
 <h2>Greeting Guys😃</h2>
 
@@ -13,6 +13,12 @@
     <img src="https://skillicons.dev/icons?i=gmail,xd,instagram,tailwind,bootstrap,git,github,kotlin,androidstudio&theme=dark" />
   </a>
 </p>
+
+<div align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=DaffaFikriAL&theme=travelers-theme&border_radius=12&locale=id&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
+</a>
+  </div>
 <!--
 **DaffaFikriAL/DaffaFikriAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
