@@ -28,7 +28,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Daffa Fikri Alfiansyah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Programmer From Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
