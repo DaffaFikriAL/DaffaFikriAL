@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaffaFikriAL.DaffaFikriAL" />
+
 <h2>Greeting Guys😃</h2>
 
 <a href="https://git.io/typing-svg">
@@ -6,7 +8,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,gmail,xd,instagram,tailwind,bootstrap,git,github,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=gmail,xd,instagram,tailwind,bootstrap,git,github,kotlin,androidstudio&theme=dark" />
   </a>
 </p>
 <!--
