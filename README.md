@@ -18,12 +18,12 @@
 
 ###
 
-<h3 align="left">💁🏽About Me</h3>
+<h3 align="left">🙋🏽About Me</h3>
 
 ###
 
 <p align="left">
-  Assalamualaikum, Hello Guys👋🏽, My name is Daffa Fikri Alfiansyah, you can call me Daffa, I'm 23 years old, My hobbies is playing mobile games, photography and playing badminton. My favorite color is Black and Blue. I live in Indonesia specifically on the island of Java, I'm someone who is very enthusiastic about developments in the IT world, especially Web Developer.
+  My name is Daffa Fikri Alfiansyah, you can call me Daffa, I'm 23 years old, My hobbies is playing mobile games, photography and playing badminton. My favorite color is Black and Blue. I live in Indonesia specifically on the island of Java. Greetings All!👐🏽
   <br>
   <br>
   - 🧑🏽‍🎓 I’m a fresh graduate from Stikubank University of Semarang with a Bachelor's Degree majoring in Informatics Engineering.
@@ -60,9 +60,9 @@
 </div>
 
 ###
-
+<!--
 <h3 align="left">🔥 My Stats :</h3>
-
+-->
 ###
 <!--
 **DaffaFikriAL/DaffaFikriAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
