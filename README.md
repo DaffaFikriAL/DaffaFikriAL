@@ -18,19 +18,17 @@
 
 ###
 
-<h3 align="left">👩‍💻About Me</h3>
-
+<h3 align="left">💁🏽About Me</h3>
 ###
-
 <p align="left">
-  I'm from Indonesia
+  Hello Guys👋🏽, My name is Daffa Fikri Alfiansyah, you can call me Daffa, I'm 23 years old, I'm live in Indonesia, I'm a fresh graduate from Stikubank University of Semarang with a Bachelor's degree in Informatics Engineering. I'm someone who is very enthusiastic about developments in the IT world, especially Web Developer.
   <br>
   <br>
-  - 🔭 I’m working as ...
+  - 🧑🏽‍🎓 I’m a fresh graduate from Stikubank University of Semarang with a Bachelor's Degree majoring in Informatics Engineering
   <br>
-  - 📚 I'm currently learning web developer such as frontend and backend
+  - 📚 I'm currently learning web developer such as frontend and backend, but for now i'm still learning about frontend developer.
   <br>
-  - ⚡ In my free time I usually learning frontend
+  - 🧑🏽‍💻 In my free time I usually learning frontend and doing some simple projects
 </p>
 
 ###
