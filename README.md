@@ -23,7 +23,7 @@
 ###
 
 <p align="left">
-  My name is Daffa Fikri Alfiansyah, you can call me Daffa, I'm 23 years old, My hobbies is playing mobile games, photography and playing badminton. My favorite color is Black and Blue. I live in Indonesia specifically on the island of Java. Greetings All!👐🏽
+  My name is Daffa Fikri Alfiansyah, you can call me Daffa or Dappo, I'm 23 years old, My hobbies are playing mobile games, photography and playing badminton. My favorite color is Black and Blue. I live in Indonesia specifically on the island of Java. Greetings All!👐🏽
   <br>
   <br>
   - 🧑🏽‍🎓 I’m a fresh graduate from Stikubank University of Semarang with a Bachelor's Degree majoring in Informatics Engineering.
