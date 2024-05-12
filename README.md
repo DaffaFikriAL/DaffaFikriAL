@@ -32,7 +32,7 @@
   - 📚 I'm currently learning web developer such as frontend and backend, but for now i'm still learning about frontend developer.
   <br>
   <br>
-  - 🧑🏽‍💻 In my free time I usually learning frontend and doing some simple projects
+  - 🧑🏽‍💻 In my free time I usually learning frontend and working on small/simple projects.
 </p>
 
 ###
